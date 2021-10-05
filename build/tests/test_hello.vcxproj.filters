@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="O:\Documents\S9\Cmake\github\cmakeorganized\tests\test_hello.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="O:\Documents\S9\Cmake\github\cmakeorganized\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2DCC04BB-0E0F-3CE7-A403-0F1F2BC2EE70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

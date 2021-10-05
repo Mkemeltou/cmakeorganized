@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="O:\Documents\S9\Cmake\github\cmakeorganized\src\log_lib\print_log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="O:\Documents\S9\Cmake\github\cmakeorganized\include\log_lib\print_log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="O:\Documents\S9\Cmake\github\cmakeorganized\src\log_lib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EC462830-AAF9-3D3B-9DB0-B9360E42AE36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2DCC04BB-0E0F-3CE7-A403-0F1F2BC2EE70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
