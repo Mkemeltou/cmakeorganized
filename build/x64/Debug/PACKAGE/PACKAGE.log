@@ -1,5 +1,0 @@
-﻿  CPack: Create package using ZIP
-  CPack: Install projects
-  CPack: - Install project: FirstOrganizedCMake [Debug]
-  CPack: Create package
-  CPack: - package: O:/Documents/S9/Cmake/Organized_CMake/build/FirstOrganizedCMake-1.0-win64.zip generated.

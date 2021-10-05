@@ -1,9 +1,0 @@
-﻿  -- Install configuration: "Debug"
-  -- Up-to-date: O:/Documents/S9/Cmake/Organized_CMake/build/install/lib/loglib.lib
-  -- Up-to-date: O:/Documents/S9/Cmake/Organized_CMake/{PROJECT_BINARY_DIR}/install/cmake/loglib_target.cmake
-  -- Installing: O:/Documents/S9/Cmake/Organized_CMake/{PROJECT_BINARY_DIR}/install/cmake/loglib_target-debug.cmake
-  -- Up-to-date: O:/Documents/S9/Cmake/Organized_CMake/build/install/include/
-  -- Up-to-date: O:/Documents/S9/Cmake/Organized_CMake/build/install/include//log_lib
-  -- Up-to-date: O:/Documents/S9/Cmake/Organized_CMake/build/install/include//log_lib/print_log.h
-  -- Up-to-date: O:/Documents/S9/Cmake/Organized_CMake/build/install/include/FirstOrganizedCMakeConfig.h
-  -- Up-to-date: O:/Documents/S9/Cmake/Organized_CMake/build/install/cmake/FirstOrganizedCMakeConfig.cmake
