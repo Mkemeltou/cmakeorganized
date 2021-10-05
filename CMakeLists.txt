@@ -17,7 +17,7 @@ add_subdirectory(mains)
 endif()
 
 #about tests
-option(FIRSTORGANIZEDCMAKE_WITH_TESTS "Compile test projects" OFF)
+option(FIRSTORGANIZEDCMAKE_WITH_TESTS "Compile test projects" ON)
 if(FIRSTORGANIZEDCMAKE_WITH_TESTS)
 # Enable testing with CTest
 enable_testing()

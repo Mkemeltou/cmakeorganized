@@ -1,0 +1,7 @@
+O:/Documents/S9/Cmake/github/cmakeorganized/CMakeFiles/PACKAGE.dir
+O:/Documents/S9/Cmake/github/cmakeorganized/CMakeFiles/INSTALL.dir
+O:/Documents/S9/Cmake/github/cmakeorganized/CMakeFiles/ALL_BUILD.dir
+O:/Documents/S9/Cmake/github/cmakeorganized/CMakeFiles/ZERO_CHECK.dir
+O:/Documents/S9/Cmake/github/cmakeorganized/src/log_lib/CMakeFiles/INSTALL.dir
+O:/Documents/S9/Cmake/github/cmakeorganized/src/log_lib/CMakeFiles/loglib.dir
+O:/Documents/S9/Cmake/github/cmakeorganized/src/log_lib/CMakeFiles/PACKAGE.dir
