@@ -1,0 +1,5 @@
+O:/Documents/S9/Cmake/Organized_CMake/tests/build/CMakeFiles/test_hello.dir
+O:/Documents/S9/Cmake/Organized_CMake/tests/build/CMakeFiles/test_version.dir
+O:/Documents/S9/Cmake/Organized_CMake/tests/build/CMakeFiles/RUN_TESTS.dir
+O:/Documents/S9/Cmake/Organized_CMake/tests/build/CMakeFiles/ALL_BUILD.dir
+O:/Documents/S9/Cmake/Organized_CMake/tests/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,36 @@
+Start testing: Oct 04 11:36 Paris, Madrid (heure d?été)
+----------------------------------------------------------
+1/2 Testing: test_hello
+1/2 Test: test_hello
+Command: "O:/Documents/S9/Cmake/Organized_CMake/tests/build/Debug/test_hello.exe"
+Directory: O:/Documents/S9/Cmake/Organized_CMake/tests/build
+"test_hello" start time: Oct 04 11:36 Paris, Madrid (heure d?été)
+Output:
+----------------------------------------------------------
+Hello World!
+
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"test_hello" end time: Oct 04 11:36 Paris, Madrid (heure d?été)
+"test_hello" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: test_version
+2/2 Test: test_version
+Command: "O:/Documents/S9/Cmake/Organized_CMake/tests/build/Debug/test_version.exe"
+Directory: O:/Documents/S9/Cmake/Organized_CMake/tests/build
+"test_version" start time: Oct 04 11:36 Paris, Madrid (heure d?été)
+Output:
+----------------------------------------------------------
+project version is 1.0
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Failed.
+"test_version" end time: Oct 04 11:36 Paris, Madrid (heure d?été)
+"test_version" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 04 11:36 Paris, Madrid (heure d?été)
