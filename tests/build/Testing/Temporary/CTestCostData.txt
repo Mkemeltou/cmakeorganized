@@ -1,4 +1,5 @@
-test_hello 3 0.0155273
+test_hello 3 0
 test_version 0 0
 ---
+test_hello
 test_version
